@@ -1,0 +1,11 @@
+*.o
+*.txt
+*.cmake
+*CMake*
+*.project
+*.cproject
+
+build/
+build-temp/
+dense*
+*old*
